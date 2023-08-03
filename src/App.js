@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -7,15 +7,20 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Sitemiz yapım aşamasındadır.
+          <br />
+          Çok yakında aktif olacaktır.
+          <br />
+          <br />
+          Bizi @etikbakkal instagram adresimizden takip edebilirsiniz.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.instagram.com/etikbakkal/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Etik Bakkal Instagram
         </a>
       </header>
     </div>
